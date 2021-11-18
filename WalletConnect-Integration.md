@@ -33,9 +33,7 @@ Bundlr tx.
 - The library **must** interact with Bundlr via WalletConnect only
 - Implementations must be **open source, with the full source code available on Github or another open code hosting
   repository**. Feel free to use whatever OSS licence you prefer.
-- Implements
-- Your submission must include a link to the library and the live, functioning, and running instance of the app itself,
-  as well as a link to the repository it is stored within.
+- Your submission must include a link to the library and interactive demo on GitHub.
 - All applicants must **[join our Discord server](https://discord.gg/xwsTEZv6DU)** and share your submission in the
   bounties channel upon completion
 - Your GitHub account **must be at least one month old**
