@@ -45,8 +45,6 @@ Bundlr tx.
 
 ## **Reward details**
 
-- The value of ETH and AR to USD will be pegged at the time of transfer, which follows successful submission and
-  provision of recipients’ ETH and AR addresses.
 - Only submissions which are judged by the core Bundlr team to meet all of the submission criteria will receive the
   rewards
 
